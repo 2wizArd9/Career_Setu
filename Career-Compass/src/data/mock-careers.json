@@ -1,0 +1,60 @@
+{
+  "careers": [
+    {
+      "id": "career_001",
+      "title": "Data Scientist",
+      "description": "Analyze complex data to drive business decisions using machine learning and statistical methods",
+      "growthRate": "+25%",
+      "medianSalary": "₹15 LPA",
+      "requiredSkills": ["Python", "Machine Learning", "Statistics", "SQL", "R", "Data Visualization", "Deep Learning", "Big Data", "A/B Testing", "Business Intelligence"],
+      "trajectory": [
+        {"level": "Junior Data Scientist", "years": "0-2", "salary": "₹8-12 LPA"},
+        {"level": "Data Scientist", "years": "2-5", "salary": "₹12-20 LPA"},
+        {"level": "Senior Data Scientist", "years": "5-8", "salary": "₹20-35 LPA"},
+        {"level": "Principal Data Scientist", "years": "8+", "salary": "₹35+ LPA"}
+      ]
+    },
+    {
+      "id": "career_002",
+      "title": "UX Researcher",
+      "description": "Conduct user research to inform product design decisions and improve user experiences",
+      "growthRate": "+18%",
+      "medianSalary": "₹12 LPA",
+      "requiredSkills": ["User Research", "Usability Testing", "Survey Design", "Data Analysis", "Psychology", "Prototyping", "Statistics", "Qualitative Research", "Quantitative Research", "Design Thinking", "Figma", "User Interviews"],
+      "trajectory": [
+        {"level": "Junior UX Researcher", "years": "0-2", "salary": "₹6-10 LPA"},
+        {"level": "UX Researcher", "years": "2-5", "salary": "₹10-16 LPA"},
+        {"level": "Senior UX Researcher", "years": "5-8", "salary": "₹16-28 LPA"},
+        {"level": "Principal UX Researcher", "years": "8+", "salary": "₹28+ LPA"}
+      ]
+    },
+    {
+      "id": "career_003",
+      "title": "Product Manager",
+      "description": "Drive product strategy and development from conception to launch",
+      "growthRate": "+22%",
+      "medianSalary": "₹18 LPA",
+      "requiredSkills": ["Product Strategy", "Market Research", "Data Analysis", "Project Management", "User Experience", "Business Analysis", "Agile", "SQL", "A/B Testing", "Stakeholder Management", "Roadmap Planning", "Competitive Analysis"],
+      "trajectory": [
+        {"level": "Associate Product Manager", "years": "0-2", "salary": "₹10-15 LPA"},
+        {"level": "Product Manager", "years": "2-5", "salary": "₹15-25 LPA"},
+        {"level": "Senior Product Manager", "years": "5-8", "salary": "₹25-40 LPA"},
+        {"level": "Director of Product", "years": "8+", "salary": "₹40+ LPA"}
+      ]
+    },
+    {
+      "id": "career_004",
+      "title": "Business Analyst",
+      "description": "Bridge the gap between business needs and technical solutions through data analysis",
+      "growthRate": "+15%",
+      "medianSalary": "₹10 LPA",
+      "requiredSkills": ["Business Analysis", "SQL", "Excel", "Data Visualization", "Process Mapping", "Requirements Gathering", "Stakeholder Management", "Power BI", "Tableau", "Project Management", "Financial Analysis", "Market Research"],
+      "trajectory": [
+        {"level": "Junior Business Analyst", "years": "0-2", "salary": "₹5-8 LPA"},
+        {"level": "Business Analyst", "years": "2-5", "salary": "₹8-14 LPA"},
+        {"level": "Senior Business Analyst", "years": "5-8", "salary": "₹14-22 LPA"},
+        {"level": "Principal Business Analyst", "years": "8+", "salary": "₹22+ LPA"}
+      ]
+    }
+  ]
+}

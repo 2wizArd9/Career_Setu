@@ -1,0 +1,92 @@
+{
+  "courses": [
+    {
+      "id": "course_001",
+      "title": "Python for Data Science",
+      "provider": "Coursera",
+      "duration": "6 weeks",
+      "difficulty": "Beginner",
+      "skills": ["Python", "Data Analysis"],
+      "url": "https://coursera.org/learn/python-data-science",
+      "rating": 4.8,
+      "enrolled": "150K+"
+    },
+    {
+      "id": "course_002",
+      "title": "Machine Learning Specialization",
+      "provider": "Coursera",
+      "duration": "3 months",
+      "difficulty": "Intermediate",
+      "skills": ["Machine Learning", "Python", "Statistics"],
+      "url": "https://coursera.org/specializations/machine-learning",
+      "rating": 4.9,
+      "enrolled": "200K+"
+    },
+    {
+      "id": "course_003",
+      "title": "Advanced Statistics for Data Science",
+      "provider": "edX",
+      "duration": "8 weeks",
+      "difficulty": "Advanced",
+      "skills": ["Statistics", "R", "Data Analysis"],
+      "url": "https://edx.org/course/advanced-statistics",
+      "rating": 4.7,
+      "enrolled": "75K+"
+    },
+    {
+      "id": "course_004",
+      "title": "Data Visualization with Tableau",
+      "provider": "Udemy",
+      "duration": "4 weeks",
+      "difficulty": "Beginner",
+      "skills": ["Tableau", "Data Visualization"],
+      "url": "https://udemy.com/course/tableau-data-visualization",
+      "rating": 4.6,
+      "enrolled": "120K+"
+    },
+    {
+      "id": "course_005",
+      "title": "SQL for Data Analysis",
+      "provider": "Udacity",
+      "duration": "3 weeks",
+      "difficulty": "Beginner",
+      "skills": ["SQL", "Database Management"],
+      "url": "https://udacity.com/course/sql-for-data-analysis",
+      "rating": 4.5,
+      "enrolled": "90K+"
+    },
+    {
+      "id": "course_006",
+      "title": "UX Research Methods",
+      "provider": "Coursera",
+      "duration": "5 weeks",
+      "difficulty": "Intermediate",
+      "skills": ["User Research", "Usability Testing", "Survey Design"],
+      "url": "https://coursera.org/learn/ux-research-methods",
+      "rating": 4.7,
+      "enrolled": "85K+"
+    },
+    {
+      "id": "course_007",
+      "title": "Product Management Fundamentals",
+      "provider": "Udemy",
+      "duration": "6 weeks",
+      "difficulty": "Beginner",
+      "skills": ["Product Strategy", "Market Research", "Agile"],
+      "url": "https://udemy.com/course/product-management-fundamentals",
+      "rating": 4.4,
+      "enrolled": "110K+"
+    },
+    {
+      "id": "course_008",
+      "title": "Business Analysis Certification",
+      "provider": "LinkedIn Learning",
+      "duration": "4 weeks",
+      "difficulty": "Intermediate",
+      "skills": ["Business Analysis", "Requirements Gathering", "Process Mapping"],
+      "url": "https://linkedin.com/learning/business-analysis-certification",
+      "rating": 4.3,
+      "enrolled": "65K+"
+    }
+  ]
+}

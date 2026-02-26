@@ -1,0 +1,100 @@
+{
+  "mentors": [
+    {
+      "id": "mentor_001",
+      "name": "Rajesh Kumar",
+      "title": "Senior Product Manager at Google",
+      "avatar": "/images/mentors/rajesh.jpg",
+      "expertise": ["Product Management", "Strategy", "Leadership"],
+      "experience": "8 years",
+      "rating": 4.9,
+      "sessionFee": "₹2,500/hour",
+      "bio": "Experienced product manager with expertise in consumer tech products. Led multiple successful product launches at Google and previously at Microsoft. Passionate about mentoring the next generation of product leaders.",
+      "availability": ["Mon 10:00", "Wed 14:00", "Fri 16:00"]
+    },
+    {
+      "id": "mentor_002",
+      "name": "Priya Patel",
+      "title": "Principal Data Scientist at Netflix",
+      "avatar": "/images/mentors/priya.jpg",
+      "expertise": ["Data Science", "Machine Learning", "Analytics"],
+      "experience": "10 years",
+      "rating": 4.8,
+      "sessionFee": "₹3,000/hour",
+      "bio": "Data science leader with deep expertise in recommendation systems and machine learning at scale. PhD in Computer Science from IIT Delhi. Mentored 50+ data scientists in their career journey.",
+      "availability": ["Tue 15:00", "Thu 11:00", "Sat 09:00"]
+    },
+    {
+      "id": "mentor_003",
+      "name": "Arjun Singh",
+      "title": "UX Research Director at Flipkart",
+      "avatar": "/images/mentors/arjun.jpg",
+      "expertise": ["UX Research", "Design Strategy", "User Psychology"],
+      "experience": "12 years",
+      "rating": 4.7,
+      "sessionFee": "₹2,800/hour",
+      "bio": "UX research expert specializing in e-commerce and fintech products. Built and led research teams at multiple startups and large companies. Strong background in behavioral psychology and design thinking.",
+      "availability": ["Mon 14:00", "Wed 10:00", "Fri 13:00"]
+    },
+    {
+      "id": "mentor_004",
+      "name": "Sneha Reddy",
+      "title": "Senior Business Analyst at McKinsey",
+      "avatar": "/images/mentors/sneha.jpg",
+      "expertise": ["Business Analysis", "Strategy Consulting", "Financial Modeling"],
+      "experience": "7 years",
+      "rating": 4.6,
+      "sessionFee": "₹2,200/hour",
+      "bio": "Management consultant with expertise in digital transformation and business process optimization. MBA from IIM Bangalore. Helped 100+ companies improve their operational efficiency.",
+      "availability": ["Tue 16:00", "Thu 14:00", "Sun 10:00"]
+    },
+    {
+      "id": "mentor_005",
+      "name": "Vikram Sharma",
+      "title": "VP of Engineering at Zomato",
+      "avatar": "/images/mentors/vikram.jpg",
+      "expertise": ["Engineering Leadership", "System Design", "Team Management"],
+      "experience": "15 years",
+      "rating": 4.9,
+      "sessionFee": "₹3,500/hour",
+      "bio": "Engineering leader with experience scaling teams and systems at high-growth startups. Previously CTO at two successful startups. Expert in building engineering culture and technical strategy.",
+      "availability": ["Mon 18:00", "Wed 17:00", "Fri 19:00"]
+    },
+    {
+      "id": "mentor_006",
+      "name": "Kavya Nair",
+      "title": "Head of Marketing at Paytm",
+      "avatar": "/images/mentors/kavya.jpg",
+      "expertise": ["Digital Marketing", "Growth Strategy", "Brand Management"],
+      "experience": "9 years",
+      "rating": 4.5,
+      "sessionFee": "₹2,400/hour",
+      "bio": "Marketing leader with expertise in digital growth and brand building. Led marketing teams at multiple fintech and e-commerce companies. Passionate about data-driven marketing strategies.",
+      "availability": ["Tue 11:00", "Thu 15:00", "Sat 14:00"]
+    },
+    {
+      "id": "mentor_007",
+      "name": "Rohit Gupta",
+      "title": "Senior Software Engineer at Microsoft",
+      "avatar": "/images/mentors/rohit.jpg",
+      "expertise": ["Software Development", "Cloud Architecture", "DevOps"],
+      "experience": "6 years",
+      "rating": 4.4,
+      "sessionFee": "₹2,000/hour",
+      "bio": "Full-stack developer with expertise in cloud technologies and modern software architecture. Contributor to open-source projects. Enjoys mentoring junior developers and sharing technical knowledge.",
+      "availability": ["Mon 20:00", "Wed 19:00", "Fri 18:00"]
+    },
+    {
+      "id": "mentor_008",
+      "name": "Anita Joshi",
+      "title": "Design Director at Adobe",
+      "avatar": "/images/mentors/anita.jpg",
+      "expertise": ["Product Design", "Design Systems", "Creative Leadership"],
+      "experience": "11 years",
+      "rating": 4.8,
+      "sessionFee": "₹2,700/hour",
+      "bio": "Design leader with expertise in creating user-centered products and building design teams. Previously led design at multiple B2B and B2C companies. Strong advocate for inclusive design practices.",
+      "availability": ["Tue 13:00", "Thu 16:00", "Sat 11:00"]
+    }
+  ]
+}

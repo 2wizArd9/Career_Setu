@@ -1,0 +1,21 @@
+{
+  "id": "user_001",
+  "name": "Harshit Goud",
+  "email": "harshit@gmail.com",
+  "avatar": "/images/avatars/harshit.jpg",
+  "currentRole": "Junior Data Analyst",
+  "experience": "2 years",
+  "skills": ["Python", "SQL", "Excel", "Tableau", "Statistics"],
+  "skillLevels": {
+    "Python": 7,
+    "SQL": 8,
+    "Excel": 9,
+    "Tableau": 6,
+    "Statistics": 5,
+    "Machine Learning": 3,
+    "R": 2,
+    "Power BI": 4,
+    "Data Visualization": 7,
+    "Business Analysis": 6
+  }
+}
